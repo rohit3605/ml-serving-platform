@@ -8,3 +8,6 @@ mlruns/
 models/
 data/*
 !data/.gitkeep
+
+mlflow.db
+mlruns/
