@@ -5,4 +5,4 @@ mlflow
 fastapi
 uvicorn
 pytest
-httpx
+httpx2
